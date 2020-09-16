@@ -21,6 +21,7 @@
 
 ## Domain Adaptation
 
+- "**[零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)**," *知乎*.
 - "**[Open Compound Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_cvpr_open_compound_domain_adaptation.pdf)**," *CVPR*, 2020.
 - "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_arxiv_delving_into_inter_Image_invariance_for_unsupervised_visual_representations.pdf)**," *arXiv*, 2020.
 - "**[Large-Scale Long-Tailed Recognition in an OpenWorld](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_large_scale_long_tailed_recognition_in_an_open_world.pdf)**," *CVPR*, 2019.

@@ -55,6 +55,7 @@
 
 ## Dataset
 
+- "AwA: Animal with Attributes." [[Website](https://cvml.ist.ac.at/AwA/)]
 
 
 ## Metrics

@@ -1,12 +1,12 @@
 # Awesome Domain Adaptation
 
-  **0. [Survey]()
-  **1. [Concept]()
-  **2. [Zero-Shot Learning]()
-  **3. [One-Shot Learning]()
-  **4. [Few-Shot Learning]()
-  **5. [Dataset]()
-  **6. [Metrics]()
+  **0. [Survey]()** <br>
+  **1. [Concept]()** <br>
+  **2. [Zero-Shot Learning]()** <br>
+  **3. [One-Shot Learning]()** <br>
+  **4. [Few-Shot Learning]()** <br>
+  **5. [Dataset]()** <br>
+  **6. [Metrics]()** <br>
 
 
 

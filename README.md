@@ -1,12 +1,12 @@
 # Awesome Domain Adaptation
 
-**0. [Survey]()
-**1. [Concept]()
-**2. [Zero-Shot Learning]()
-**3. [One-Shot Learning]()
-**4. [Few-Shot Learning]()
-**5. [Dataset]()
-**6. [Metrics]()
+  **0. [Survey]()
+  **1. [Concept]()
+  **2. [Zero-Shot Learning]()
+  **3. [One-Shot Learning]()
+  **4. [Few-Shot Learning]()
+  **5. [Dataset]()
+  **6. [Metrics]()
 
 
 
@@ -30,9 +30,7 @@
 
 ## Zero-Shot Learning
 
-
-- "Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly," [[Paper](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_tpami_zero_shot_learning_a_comprehensive_evaluation_of_the_good_the_bad_and_the_ugly.pdf) ]
-<br>*IEEE TPAMI*, 2019.
+- "**[Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_tpami_zero_shot_learning_a_comprehensive_evaluation_of_the_good_the_bad_and_the_ugly.pdf)**," *IEEE TPAMI*, 2019.
 - "**[f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_f_vaegan_d2.pdf)**," *CVPR*, 2019.
 - "**[Feature Generating Networks for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2018_cvpr_feature_generating_networks_for_zero_shot_learning.pdf)**," *CVPR*, 2018.
 - "**[Semantic Autoencoder for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2017_cvpr_semantic_autoencoder_for_zero_shot_learning.pdf)**," *CVPR*, 2017.

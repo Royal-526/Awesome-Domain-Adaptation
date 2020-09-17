@@ -5,10 +5,9 @@
   **0. [Survey](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#survey)** <br>
   **1. [Concept](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#concept)** <br>
   **2. [Zero-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#zero-shot-learning)** <br>
-  **3. [One-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#one-shot-learning)** <br>
-  **4. [Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#few-shot-learning)** <br>
-  **5. [Dataset](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#datasets)** <br>
-  **6. [Metrics](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#metrics)** <br>
+  **3. [Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#few-shot-learning)** <br>
+  **4. [Dataset](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#datasets)** <br>
+  **5. [Metrics](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#metrics)** <br>
 
 
 
@@ -23,8 +22,8 @@
 
 ## Concept
 
-- "[零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)," *知乎*.
-- "[李宏毅 Transfer Learning Lecture](https://www.youtube.com/watch?v=qD6iD4TFsdQ)," *YouTube*.
+- "[零次学习(Zero-Shot Learning)入门](https://zhuanlan.zhihu.com/p/34656727)," *知乎*.
+- "[李宏毅Transfer Learning Lecture](https://www.youtube.com/watch?v=qD6iD4TFsdQ)," *YouTube*.
 - "**[Open Compound Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_cvpr_open_compound_domain_adaptation.pdf)**," *CVPR*, 2020.
 - "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_arxiv_delving_into_inter_Image_invariance_for_unsupervised_visual_representations.pdf)**," *arXiv*, 2020.
 - "**[Large-Scale Long-Tailed Recognition in an OpenWorld](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_large_scale_long_tailed_recognition_in_an_open_world.pdf)**," *CVPR*, 2019.
@@ -46,13 +45,9 @@
 
 
 
-## One-Shot Learning
-
-
-
 ## Few-Shot Learning
 
-- "[小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)," *知乎*.
+- "[小样本学习(Few-shot Learning)综述](https://zhuanlan.zhihu.com/p/61215293)," *知乎*.
 
 
 ## Dataset

@@ -55,8 +55,11 @@
 
 ## Dataset
 
+- "AwA2: Animal with Attributes 2." [[Website](https://cvml.ist.ac.at/AwA2/)]
 - "AwA: Animal with Attributes." [[Website](https://cvml.ist.ac.at/AwA/)]
-
+- "CUB: Caltech-UCSD Birds-200-2011." [[Website](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)]
+- "SUN: The Sun Dataset." [[Website](http://groups.csail.mit.edu/vision/SUN/)]
+- "aPY: Attribute Pascal and Yahoo Dataset." [[Website](https://vision.cs.uiuc.edu/attributes/)]
 
 ## Metrics
 

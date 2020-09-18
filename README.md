@@ -24,9 +24,6 @@
 ## Concept
 
 - "[零次学习(Zero-Shot Learning)入门](https://zhuanlan.zhihu.com/p/34656727)," *知乎*.
-- "[李宏毅 Transfer Learning Lecture](https://www.youtube.com/watch?v=qD6iD4TFsdQ)," *YouTube*.
-- "[李宏毅 Domain Adaptation Lecture I](https://www.youtube.com/watch?v=gvfLq4sPW4k)," *YouTube*.
-- "[李宏毅 Domain Adaptation Lecture II](https://www.youtube.com/watch?v=-DQBMAULXX8)," *YouTube*.
 - "**[Open Compound Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_cvpr_open_compound_domain_adaptation.pdf)**," *CVPR*, 2020.
 - "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_arxiv_delving_into_inter_Image_invariance_for_unsupervised_visual_representations.pdf)**," *arXiv*, 2020.
 - "**[Large-Scale Long-Tailed Recognition in an OpenWorld](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_large_scale_long_tailed_recognition_in_an_open_world.pdf)**," *CVPR*, 2019.
@@ -65,5 +62,8 @@
 
 ## Lectures
 
+- "Transfer Learning Lecture" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=qD6iD4TFsdQ)].
+- "Domain Adaptation Lecture I" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
+- "Domain Adaptation Lecture II" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].
 - "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)]
 

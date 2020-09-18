@@ -8,6 +8,7 @@
   **3. [Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#few-shot-learning)** <br>
   **4. [Dataset](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#datasets)** <br>
   **5. [Metrics](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#metrics)** <br>
+  **6. [Lectures](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#lectures)** <br>
 
 
 
@@ -62,5 +63,7 @@
 
 ## Metrics
 
+## Lectures
 
+- "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)]
 

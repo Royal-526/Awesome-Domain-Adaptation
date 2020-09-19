@@ -63,6 +63,7 @@
 ## Lectures
 
 - "迁移学习简明手册" by 王晋东. [[Website](https://tutorial.transferlearning.xyz/)] [[PDF](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)].
+- "迁移学习中的领域自适应方法" by 王晋东. [[哔哩哔哩](https://www.bilibili.com/video/BV1T7411R75a/)].
 - "Transfer Learning Lecture" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=qD6iD4TFsdQ)].
 - "Domain Adaptation Lecture I" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
 - "Domain Adaptation Lecture II" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].

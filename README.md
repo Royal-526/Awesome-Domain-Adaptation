@@ -52,19 +52,19 @@
 
 ## Dataset
 
-- "AwA2: Animal with Attributes 2." [[Website](https://cvml.ist.ac.at/AwA2/)]
-- "AwA: Animal with Attributes." [[Website](https://cvml.ist.ac.at/AwA/)]
-- "CUB: Caltech-UCSD Birds-200-2011." [[Website](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)]
-- "SUN: The Sun Dataset." [[Website](http://groups.csail.mit.edu/vision/SUN/)]
-- "aPY: Attribute Pascal and Yahoo Dataset." [[Website](https://vision.cs.uiuc.edu/attributes/)]
+- "AwA2: Animal with Attributes 2." [[Website](https://cvml.ist.ac.at/AwA2/)].
+- "AwA: Animal with Attributes." [[Website](https://cvml.ist.ac.at/AwA/)].
+- "CUB: Caltech-UCSD Birds-200-2011." [[Website](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)].
+- "SUN: The Sun Dataset." [[Website](http://groups.csail.mit.edu/vision/SUN/)].
+- "aPY: Attribute Pascal and Yahoo Dataset." [[Website](https://vision.cs.uiuc.edu/attributes/)].
 
 ## Metrics
 
 ## Lectures
 
-- "迁移学习简明手册" by 王晋东. [[Website](https://tutorial.transferlearning.xyz/)] [[PDF](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)]
+- "迁移学习简明手册" by 王晋东. [[Website](https://tutorial.transferlearning.xyz/)] [[PDF](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)].
 - "Transfer Learning Lecture" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=qD6iD4TFsdQ)].
 - "Domain Adaptation Lecture I" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
 - "Domain Adaptation Lecture II" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].
-- "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)]
+- "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)].
 

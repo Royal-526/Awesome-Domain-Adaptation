@@ -14,6 +14,7 @@
 
 ## Survey
 
+- "[A Survey of Zero-Shot Learning: Settings, Methods, and Applications]()," *ACM Transactions on Intelligent Systems and Technology*, 2019.
 - "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_acmcs_survey_few_shot_learning.pdf)**," *ACM Computing Surveys*, 2020.
 - "**[Overcoming Negative Transfer: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_arxiv_survey_overcoming_negative_transfer.pdf)**," *arXiv*, 2020.
 - "**[Recent Advances in Zero-shot Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_spm_recent_advances_in_zero_shot_recognition.pdf)**," *IEEE Signal Processing Magazine*, 2018.

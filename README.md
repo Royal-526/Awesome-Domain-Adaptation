@@ -17,7 +17,7 @@
 - "[A Survey of Zero-Shot Learning: Settings, Methods, and Applications](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Survey/2019_acmtist_survey_zero_shot_learning.pdf)," *ACM Transactions on Intelligent Systems and Technology*, 2019.
 - "**[Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_acmcs_survey_few_shot_learning.pdf)**," *ACM Computing Surveys*, 2020.
 - "**[Overcoming Negative Transfer: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2020_arxiv_survey_overcoming_negative_transfer.pdf)**," *arXiv*, 2020.
-- "**[Recent Advances in Zero-shot Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_spm_recent_advances_in_zero_shot_recognition.pdf)**," *IEEE Signal Processing Magazine*, 2018.
+- "**[Recent Advances in Zero-Shot Recognition](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_spm_recent_advances_in_zero_shot_recognition.pdf)**," *IEEE Signal Processing Magazine*, 2018.
 - "**[Deep Visual Domain Adaptation: A Survey](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Surveys/2018_neurocomp_survey_deep_visual_domain_adaptation.pdf)**," *Neurocomputing*, 2018.
 
 

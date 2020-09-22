@@ -69,6 +69,7 @@
 - "[我对Siamese网络的一点思考（SiamMask）](https://zhuanlan.zhihu.com/p/58154634)," *知乎*.
 - "[单样本学习（One shot learning）和孪生网络（Siamese Network）简介](https://zhuanlan.zhihu.com/p/29058453)," *知乎*.
 - "[Siamese Network方法概述：从SiamFC到SiamRPN系列](https://zhuanlan.zhihu.com/p/66757733)," *知乎*.
+- "[One Shot Learning with Siamese Networks using Keras](https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d)," *Medium*.
 
 
 

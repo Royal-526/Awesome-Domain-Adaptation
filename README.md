@@ -51,7 +51,7 @@
 - "**[Zero-Shot Learning via Semantic Similarity Embedding](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_iccv_zero_shot_learning_via_semantic_similarity_embedding.pdf)**," *ICCV*, 2015.
 - "**[Ridge Regression, Hubness, and Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2015_emnlp_ridge_regression_hubness_and_zero_shot_learning.pdf)**," *EMNLP*, 2015.
 - "**[Zero-Shot Learning Through Cross-Modal Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2013_nips_zero_shot_learning_through_cross_modal_transfer.pdf)**," *NeurIPS*, 2013.
-- "[零次学习(Zero-Shot Learning)入门](https://zhuanlan.zhihu.com/p/34656727)," *知乎*.
+- "[零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)," *知乎*.
 
 
 
@@ -64,7 +64,8 @@
 - "**[Deep Metric Learning using Triplet Network]()**," *ICLR*, 2015.
 - "[小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)," *知乎*.
 - "[孪生神经网络（Siamese Network）：一个简单神奇的结构](https://zhuanlan.zhihu.com/p/35040994)," *知乎*.
-- "[我对Siamese网络的一点思考（SiamMask）[CVPR2019]](https://zhuanlan.zhihu.com/p/58154634)," *知乎*.
+- "[我对Siamese网络的一点思考（SiamMask）](https://zhuanlan.zhihu.com/p/58154634)," *知乎*.
+- "[单样本学习（One shot learning）和孪生网络（Siamese Network）简介](https://zhuanlan.zhihu.com/p/29058453)," *知乎*.
 
 
 

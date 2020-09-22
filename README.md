@@ -96,5 +96,6 @@
 - "Domain Adaptation Lecture I" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
 - "Domain Adaptation Lecture II" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].
 - "GAN Lecture 1: Introduction" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=DQNNMiAP5lw)].
+- "GAN Lecture 2: Conditional Generation" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=LpyL4nZSuqU)].
 - "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)].
 

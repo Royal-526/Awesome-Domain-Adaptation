@@ -30,6 +30,7 @@
 - "**[Learning Transferable Features with Deep Adaptation Networks](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2015_icml_learning_transferable_features_with_deep_adaptation_networks.pdf)**," *ICML*, 2015.
 - "**[Simultaneous Deep Transfer Across Domains and Tasks](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2015_iccv_simultaneous_deep_transfer_across_domains_and_tasks.pdf)**," *ICCV*, 2015.
 - "**[Deep Domain Confusion: Maximizing for Domain Invariance](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2014_arxiv_deep_domain_confusion.pdf)**," *arXiv*, 2014.
+- "**[迁移学习问题与方法研究]()**," *清华大学博士学位论文*， 2014.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2009_cvpr_learning_to_detect_unseen_object_classes_by_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 
 
@@ -56,8 +57,13 @@
 
 ## Few-Shot Learning
 
+- "**[A Baseline For Few-Shot Image Classification]()**," *ICLR*, 2020.
+- "**[A Closer Look at Few-Shot Classification]()**," *ICLR*, 2019.
 - "**[Learning to Compare: Relation Network for Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Few-Shot%20Learning/2018_cvpr_learning_to_compare_relation_network_for_few_shot_learning.pdf),** *CVPR*, 2018.
+- "[Siamese Neural Networks for One-shot Image Recognition]()," *ICML*, 2015.
+- "**[Deep Metric Learning using Triplet Network]()**," *ICLR*, 2015.
 - "[小样本学习(Few-shot Learning)综述](https://zhuanlan.zhihu.com/p/61215293)," *知乎*.
+- "[孪生神经网络(Siamese Network)——一个简单神奇的结构](https://zhuanlan.zhihu.com/p/35040994)," *知乎*.
 
 
 

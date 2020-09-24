@@ -81,6 +81,8 @@
 - "**[CycleGAN, a Master of Steganography]()**," *NeurIPS Workshop*, 2017.
 - "[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]()," *ICCV*, 2017.
 - "[StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]()," *ICCV*, 2017.
+- "**[Unsupervised Image-to-Image Translation Networks]()**," *NeurIPS*, 2017.
+- "**[Coupled Generative Adversarial Networks]()**," *NeurIPS*, 2016.
 - "**[Adversarial Autoencoders]()**," *arXiv*, 2015.
 - "[Conditional Generative Adversarial Nets]()," *arXiv*, 2014.
 - "[Generative Adversarial Nets]()," *NeurIPS*, 2014.

@@ -109,12 +109,12 @@
 - "迁移学习中的领域自适应方法" by 王晋东. [[哔哩哔哩](https://www.bilibili.com/video/BV1T7411R75a/)].
 - CS330: Deep Multi-Task and Meta Learning (Fall 2019) by Chelsea Finn from Stanford University. [[Website](http://cs330.stanford.edu/fall2019/index.html)] [[Lecture](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)].
 - 李宏毅Machine Learning Lectures:
-    - "Transfer Learning Lecture" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=qD6iD4TFsdQ)].
-    - "Domain Adaptation Lecture I" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
-    - "Domain Adaptation Lecture II" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].
-    - "GAN Lecture 1: Introduction" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=DQNNMiAP5lw)].
-    - "GAN Lecture 2: Conditional Generation" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=LpyL4nZSuqU)].
-    - "GAN Lecture 3: Unsupervised Conditional Generation" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=-3LgL3NXLtI)].
-    - "GAN Lecture 4: Theory behind GAN" by 李宏毅. [[YouTube](https://www.youtube.com/watch?v=DMA4MrNieWo)].
+    - Transfer Learning Lecture. [[YouTube](https://www.youtube.com/watch?v=qD6iD4TFsdQ)].
+    - Domain Adaptation Lecture I. [[YouTube](https://www.youtube.com/watch?v=gvfLq4sPW4k)].
+    - Domain Adaptation Lecture II. [[YouTube](https://www.youtube.com/watch?v=-DQBMAULXX8)].
+    - GAN Lecture 1: Introduction. [[YouTube](https://www.youtube.com/watch?v=DQNNMiAP5lw)].
+    - GAN Lecture 2: Conditional Generation. [[YouTube](https://www.youtube.com/watch?v=LpyL4nZSuqU)].
+    - GAN Lecture 3: Unsupervised Conditional Generation. [[YouTube](https://www.youtube.com/watch?v=-3LgL3NXLtI)].
+    - GAN Lecture 4: Theory behind GAN. [[YouTube](https://www.youtube.com/watch?v=DMA4MrNieWo)].
 - "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)].
 

@@ -82,6 +82,7 @@
 - "[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]()," *ICCV*, 2017.
 - "[StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]()," *ICCV*, 2017.
 - "**[Unsupervised Image-to-Image Translation Networks]()**," *NeurIPS*, 2017.
+- "**[Unsupervised representation learning with deep convolutional generative adversarial networks]()**," *ICLR*, 2016.
 - "**[Coupled Generative Adversarial Networks]()**," *NeurIPS*, 2016.
 - "**[Adversarial Autoencoders]()**," *arXiv*, 2015.
 - "[Conditional Generative Adversarial Nets]()," *arXiv*, 2014.
@@ -116,5 +117,11 @@
     - GAN Lecture 2: Conditional Generation. [[YouTube](https://www.youtube.com/watch?v=LpyL4nZSuqU)].
     - GAN Lecture 3: Unsupervised Conditional Generation. [[YouTube](https://www.youtube.com/watch?v=-3LgL3NXLtI)].
     - GAN Lecture 4: Theory behind GAN. [[YouTube](https://www.youtube.com/watch?v=DMA4MrNieWo)].
+    - GAN Lecture 5: General Framework. [[YouTube](https://www.youtube.com/watch?v=av1bqilLsyQ)].
+    - GAN Lecture 6: WGAN & EBGAN. [[YouTube](https://www.youtube.com/watch?v=3JP-xuBJsyc)].
+    - GAN Lecture 7: Info GAN, VAE-GAN, and BiGAN. [[YouTube](https://www.youtube.com/watch?v=sU5CG8Z0zgw)].
+    - GAN Lecture 8: Photo Editing. [[YouTube](https://www.youtube.com/watch?v=Lhs_Kphd0jg)].
+    - GAN Lecture 9: Sequence Generation. [[YouTube](https://www.youtube.com/watch?v=Xb1x4ZgV6iM)].
+    - GAN Lecture 10: Evaluation & Concluding Remarks. [[YouTube](https://www.youtube.com/watch?v=IB_ADssBomk)].
 - "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)].
 

@@ -76,6 +76,7 @@
 
 ## GANs
 
+- "**[DualGAN: Unsupervised Dual Learning for Image-to-Image Translation]()**," *ICCV*, 2017.
 - "**[CycleGAN, a Master of Steganography]()**," *NeurIPS Workshop*, 2017.
 - "[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]()," *ICCV*, 2017.
 - "[StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks]()," *ICCV*, 2017.

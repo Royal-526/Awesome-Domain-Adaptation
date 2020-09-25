@@ -76,7 +76,9 @@
 
 ## GANs
 
+- "**[Improved Training of Wasserstein GANs]()**," *NeurIPS*, 2019.
 - "**[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]()**," *CVPR*, 2018.
+- "**[Wasserstein GAN]()**," *arXiv*, 2017.
 - "**[DualGAN: Unsupervised Dual Learning for Image-to-Image Translation]()**," *ICCV*, 2017.
 - "**[CycleGAN, a Master of Steganography]()**," *NeurIPS Workshop*, 2017.
 - "[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]()," *ICCV*, 2017.

@@ -89,6 +89,8 @@
 - "**[Adversarial Autoencoders]()**," *arXiv*, 2015.
 - "[Conditional Generative Adversarial Nets]()," *arXiv*, 2014.
 - "[Generative Adversarial Nets]()," *NeurIPS*, 2014.
+- "[令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)," *知乎*.
+- "[白话Wassertein距离](https://zhuanlan.zhihu.com/p/25071913)," *知乎*.
 
 
 

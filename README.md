@@ -62,7 +62,7 @@
 
 - "**[A Baseline For Few-Shot Image Classification]()**," *ICLR*, 2020.
 - "**[A Closer Look at Few-Shot Classification]()**," *ICLR*, 2019.
-- "**[Learning to Compare: Relation Network for Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Few-Shot%20Learning/2018_cvpr_learning_to_compare_relation_network_for_few_shot_learning.pdf),** *CVPR*, 2018.
+- "[Learning to Compare: Relation Network for Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Few-Shot%20Learning/2018_cvpr_learning_to_compare_relation_network_for_few_shot_learning.pdf)," *CVPR*, 2018.
 - "**[One-shot Learning with Memory-Augmented Neural Networks]()**," *arXiv*, 2016.
 - "[Matching Networks for One Shot Learning]()," *NeurIPS*, 2016.
 - "[Siamese Neural Networks for One-shot Image Recognition]()," *ICML*, 2015.

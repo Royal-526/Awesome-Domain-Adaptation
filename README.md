@@ -33,6 +33,8 @@
 - "**[Deep Domain Confusion: Maximizing for Domain Invariance](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2014_arxiv_deep_domain_confusion.pdf)**," *arXiv*, 2014.
 - "**[迁移学习问题与方法研究]()**," *清华大学博士学位论文*， 2014.
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2009_cvpr_learning_to_detect_unseen_object_classes_by_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
+- "[Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)," *Blog*.
+- "[元学习: 学习如何学习](https://wei-tianhao.github.io/blog/2019/09/17/meta-learning.html)," *Blog*.
 
 
 

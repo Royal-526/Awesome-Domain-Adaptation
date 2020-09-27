@@ -45,6 +45,7 @@
 - "**[f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_f_vaegan_d2.pdf)**," *CVPR*, 2019.
 - "**[Zero-Shot Object Detection](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Zero-Shot%20Learning/2018_eccv_zero_shot_object_detection.pdf)**," *ECCV*, 2018.
 - "**[Feature Generating Networks for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2018_cvpr_feature_generating_networks_for_zero_shot_learning.pdf)**," *CVPR*, 2018.
+- "**[Learning a Deep Embedding Model for Zero-Shot Learning]()**," *CVPR*, 2017.
 - "**[Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Zero-Shot%20Learning/2017_cvpr_zero_shot_recognition_using_dual_visual_semantic_mapping_paths.pdf)**," *CVPR*, 2017.
 - "**[Hubness and Pollution: Delving into Cross-Space Mapping for Zero-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Zero-Shot%20Learning/2017_acl_hubness_and_pollution.pdf)**," *ACL*, 2017.
 - "**[Semantic Autoencoder for Zero-Shot Learning](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2017_cvpr_semantic_autoencoder_for_zero_shot_learning.pdf)**," *CVPR*, 2017.

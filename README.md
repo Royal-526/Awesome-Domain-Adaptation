@@ -103,6 +103,8 @@
 
 ## Dataset
 
+- "MiniImagenet Dataset."
+- "Omniglot Dataset." [[Website](https://github.com/brendenlake/omniglot)].
 - "AwA2: Animal with Attributes 2." [[Website](https://cvml.ist.ac.at/AwA2/)].
 - "AwA: Animal with Attributes." [[Website](https://cvml.ist.ac.at/AwA/)].
 - "CUB: Caltech-UCSD Birds-200-2011." [[Website](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)].

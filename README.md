@@ -7,9 +7,9 @@
   **2. [Zero-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#zero-shot-learning)** <br>
   **3. [Few-Shot Learning](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#few-shot-learning)** <br>
   **4. [GANs](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#gans)** <br>
-  **5. [Dataset](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#datasets)** <br>
+  **5. [Dataset](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#dataset)** <br>
   **6. [Metrics](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#metrics)** <br>
-  **7. [Lecture](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#lectures)** <br>
+  **7. [Lecture](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/README.md#lecture)** <br>
 
 
 

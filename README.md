@@ -28,6 +28,7 @@
 - "**[Open Compound Domain Adaptation](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_cvpr_open_compound_domain_adaptation.pdf)**," *CVPR*, 2020.
 - "**[Delving into Inter-Image Invariance for Unsupervised Visual Representations](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2020_arxiv_delving_into_inter_Image_invariance_for_unsupervised_visual_representations.pdf)**," *arXiv*, 2020.
 - "**[Large-Scale Long-Tailed Recognition in an OpenWorld](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2019_cvpr_large_scale_long_tailed_recognition_in_an_open_world.pdf)**," *CVPR*, 2019.
+- "**[A Simple Neural Network Module for Relational Reasoning]()**," *NeurIPS*, 2017.
 - "**[Learning Transferable Features with Deep Adaptation Networks](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2015_icml_learning_transferable_features_with_deep_adaptation_networks.pdf)**," *ICML*, 2015.
 - "**[Simultaneous Deep Transfer Across Domains and Tasks](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2015_iccv_simultaneous_deep_transfer_across_domains_and_tasks.pdf)**," *ICCV*, 2015.
 - "**[Deep Domain Confusion: Maximizing for Domain Invariance](https://github.com/Royal-526/Awesome-Domain-Adaptation/blob/master/Papers/Concept/2014_arxiv_deep_domain_confusion.pdf)**," *arXiv*, 2014.

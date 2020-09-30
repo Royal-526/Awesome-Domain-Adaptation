@@ -36,6 +36,8 @@
 - "**[Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](https://github.com/Andrew-Ng-s-number-one-fan/Readings/blob/master/Domain%20Adaptation/2009_cvpr_learning_to_detect_unseen_object_classes_by_between_class_attribute_transfer.pdf)**," *CVPR*, 2009.
 - "[Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)," *Blog*.
 - "[元学习: 学习如何学习](https://wei-tianhao.github.io/blog/2019/09/17/meta-learning.html)," *Blog*.
+- "[Transfer Learning — Part 1](https://medium.com/dataswati-garage/transfer-learning-part-1-c2f87de8df38)," *Medium*.
+- "[Transfer Learning — Part 2](https://towardsdatascience.com/transfer-learning-part-2-zero-one-few-shot-learning-94d972b6c022)," *Medium*.
 
 
 

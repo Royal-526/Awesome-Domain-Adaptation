@@ -139,5 +139,29 @@
     - GAN Lecture 8: Photo Editing. [[YouTube](https://www.youtube.com/watch?v=Lhs_Kphd0jg)].
     - GAN Lecture 9: Sequence Generation. [[YouTube](https://www.youtube.com/watch?v=Xb1x4ZgV6iM)].
     - GAN Lecture 10: Evaluation & Concluding Remarks. [[YouTube](https://www.youtube.com/watch?v=IB_ADssBomk)].
+- 李宏毅Machine Learning Lectures:
+    - Meta Learning - MAML (1/9). [[YouTube](https://www.youtube.com/watch?v=EkAqYbpCYAc)].
+    - Meta Learning - MAML (2/9). [[YouTube](https://www.youtube.com/watch?v=9k4ND-xjcgM)].
+    - Meta Learning - MAML (3/9). [[YouTube](https://www.youtube.com/watch?v=PznN0w7dYc0)].
+    - Meta Learning - MAML (4/9). [[YouTube](https://www.youtube.com/watch?v=knaAdp5uWRg)].
+    - Meta Learning - MAML (5/9). [[YouTube](https://www.youtube.com/watch?v=vUwOA3SNb_E)].
+    - Meta Learning - MAML (6/9). [[YouTube](https://www.youtube.com/watch?v=dV-Crj8hsJM)].
+    - Meta Learning - MAML (7/9). [[YouTube](https://www.youtube.com/watch?v=mxqzGwP_Qys)].
+    - Meta Learning - MAML (8/9). [[YouTube](https://www.youtube.com/watch?v=3z997JhL9Oo)].
+    - Meta Learning - MAML (9/9). [[YouTube](https://www.youtube.com/watch?v=9jJe2AD35P8)].
+    - Meta Learning - Gradient Descent as a LSTM (1/3). [[YouTube](https://www.youtube.com/watch?v=NjZygLDXxjg)].
+    - Meta Learning - Gradient Descent as a LSTM (2/3). [[YouTube](https://www.youtube.com/watch?v=G_xYYq772NQ)].
+    - Meta Learning - Gradient Descent as a LSTM (3/3). [[YouTube](https://www.youtube.com/watch?v=p0Tn8oZWZbQ)].
+    - Meta Learning - Metric-based Methods (1/3). [[YouTube](https://www.youtube.com/watch?v=yyKaACh_j3M)].
+    - Meta Learning - Metric-based Methods (2/3). [[YouTube](https://www.youtube.com/watch?v=scK2EIT7klw)].
+    - Meta Learning - Metric-based Methods (3/3). [[YouTube](https://www.youtube.com/watch?v=semSxPP2Yzg)].
+    - Meta Learning - Train + Test as RNNs. [[YouTube](https://www.youtube.com/watch?v=ePimv_k-H24)].
+- 李宏毅Network Compression Lectures:
+    - Network Compression (1/6). [[YouTube](https://www.youtube.com/watch?v=dPp8rCAnU_A)].
+    - Network Compression (2/6). [[YouTube](https://www.youtube.com/watch?v=7B8Cx7woQk4)].
+    - Network Compression (3/6). [[YouTube](https://www.youtube.com/watch?v=mzZzn8fBvEs)].
+    - Network Compression (4/6). [[YouTube](https://www.youtube.com/watch?v=fMsNf0ufYnY)].
+    - Network Compression (5/6). [[YouTube](https://www.youtube.com/watch?v=L0TOXlNpCJ8)].
+    - Network Compression (6/6). [[YouTube](https://www.youtube.com/watch?v=f0rOMyZSZi4)].
 - "Few-Shot Learning with Meta-Learning: Progress Made and Challenges Ahead" by Hugo Larochelle from Google Brain. [[Lecture](https://smartech.gatech.edu/handle/1853/60506)].
 
